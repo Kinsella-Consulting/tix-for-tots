@@ -1,6 +1,6 @@
 class TestControllerTests extends GroovyTestCase {
 
     void testSomething() {
-        assert true
+        assert true  // Testing TeamCity plugin.
     }
 }
